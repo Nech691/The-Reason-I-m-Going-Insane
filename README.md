@@ -52,13 +52,13 @@ Indeed, as time goes by, things do change. The interaction between two completel
 ### 🟦 Stage 4
 - Name/Alias:
 - Github account:
-- Published webpage for stage 4: https://nech691.github.io/The-Reason-I-m-Going-Insane/ 
+- Published webpage for stage 4:
 
-*The first time you run it, it runs like superman. The more you refresh it, the more it runs like superman from wish*
+
 
 ### 🟪 Stage 5
 - Name/Alias:
 - Github account:
-- Published webpage for stage 5:
+- Published webpage for stage 4: https://nech691.github.io/The-Reason-I-m-Going-Insane/ 
 
-*... comments to be added here*
+*The first time you run it, it runs like superman. The more you refresh it, the more it runs like superman from wish*
