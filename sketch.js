@@ -130,7 +130,7 @@ function beginAdventure() {
   textAlign(CENTER);
   accButton();
   denButton();
-  // cancelAnimation();
+  cancelAnimation();
 }
 
 function demon8() {
@@ -143,8 +143,8 @@ function demon8() {
   pleaWith1();
   messWith1();
 
-  // cancelAnimation();
-  // animateImage8();
+  cancelAnimation();
+  animateImage8();
 }
 
 function demon81() {
@@ -157,8 +157,8 @@ function demon81() {
   pleaWith2();
   messWith2();
 
-  // cancelAnimation();
-  // animateImage8();
+  cancelAnimation();
+  animateImage8();
 }
 
 function animateImage8() {
@@ -182,8 +182,8 @@ function demon9() {
   text("9 You have made it worse. Now you die \nGAME   OVER", txtX, txtY, 600);
   text("Refresh page to play again", txtX, txtY + 80, 600);
 
-  // cancelAnimation();
-  // animateImage9();
+  cancelAnimation();
+  animateImage9();
 }
 
 function demon91() {
@@ -195,8 +195,8 @@ function demon91() {
   text("91 You have made it worse. Now you die \nGAME   OVER", txtX, txtY, 600);
   text("Refresh page to play again", txtX, txtY + 80, 600);
 
-  // cancelAnimation();
-  // animateImage9();
+  cancelAnimation();
+  animateImage9();
 }
 
 function demon92() {
@@ -208,8 +208,8 @@ function demon92() {
   text("92 You have made it worse. Now you die \nGAME   OVER", txtX, txtY, 600);
   text("Refresh page to play again", txtX, txtY + 80, 600);
 
-  // cancelAnimation();
-  // animateImage9();
+  cancelAnimation();
+  animateImage9();
 }
 
 function demon93() {
@@ -221,8 +221,8 @@ function demon93() {
   text("93 You have made it worse. Now you die \nGAME   OVER", txtX, txtY, 600);
   text("Refresh page to play again", txtX, txtY + 80, 600);
 
-  // cancelAnimation();
-  // animateImage9();
+  cancelAnimation();
+  animateImage9();
 }
 
 function animateImage9() {
